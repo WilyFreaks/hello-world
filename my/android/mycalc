@@ -24,6 +24,7 @@ public class MainActivity extends Activity {
 		calc.setDisp(txtDisp,this);
 	}
 
+	// This is onClickButton action
 	public void onClickButton(View view) {
 
 		switch (view.getId()) {
